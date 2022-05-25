@@ -76,9 +76,9 @@
 12. ¿Cual es el cliente que gastó más?
 13. Dar los nombres de los clientes que gastaron $5000 o mas.
 14. El correo necesita imprimir las etiquetas con el nombre del cliente y la dirección para cada envío. Dar una lista con esos datos para cada compra ordenados por fecha. En una columna apellido y nombre de cliente, en la otra el domicilio indicando: calle, altura, localidad y provincia.
-15. Ejercicio 15.
-16. Ejercicio 16.
-17. Ejercicio 17.
+15. Indicar nombre de provincia y poblacion total de sus ciudades para la tabla `ciudades`. Mostrar solamente las provincias que sumen más de un millón de habitantes.
+16. Mostrar las compras de Juan Perez ordenadas por fecha. Indicar artículo, precio, cantidad y total de la compra.
+17. Buscar el nombre y apellido de los clientes que viven en Santa Fe o Cordoba.
 18. Ejercicio 18.
 19. Ejercicio 19.
 20. Ejercicio 20.
