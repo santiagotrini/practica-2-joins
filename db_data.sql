@@ -111,3 +111,28 @@ INSERT INTO compras(fecha,cliente,producto,cant) VALUES
 ('2022-05-17 10:40:00',2,12,15),
 ('2022-05-17 15:00:00',5,1,20),
 ('2022-05-17 15:50:00',7,4,10);
+
+UPDATE provincias
+SET region = 'Cuyo'
+WHERE nombre IN ('Mendoza', 'San Juan', 'San Luis');
+
+UPDATE provincias
+SET region = 'Patagonia'
+WHERE nombre IN ('Santa Cruz', 'Chubut', 'Rio Negro', 'Neuquen', 'La Pampa')
+   OR nombre LIKE 'Tierra del%';
+
+UPDATE provincias
+SET region = 'Mesopotamia'
+WHERE nombre IN ('Entre Rios', 'Corrientes', 'Misiones');
+
+UPDATE provincias
+SET region = 'NOA'
+WHERE nombre IN ('Jujuy', 'Salta', 'Tucuman', 'Catamarca', 'La Rioja', 'Santiago del Estero');
+
+UPDATE provincias
+SET region = 'Pampa'
+WHERE nombre IN ('Santa Fe', 'Cordoba', 'Buenos Aires', 'Ciudad Autonoma de Buenos Aires');
+
+UPDATE provincias
+SET region = 'Chaco'
+WHERE nombre IN ('Chaco', 'Formosa');

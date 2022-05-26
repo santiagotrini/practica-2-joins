@@ -53,3 +53,5 @@ CREATE TABLE compras (
   FOREIGN KEY (cliente) REFERENCES clientes(id),
   FOREIGN KEY (producto) REFERENCES productos(id)
 );
+
+ALTER TABLE provincias ADD COLUMN region VARCHAR(20);
