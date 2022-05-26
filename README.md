@@ -79,10 +79,10 @@
 15. Indicar nombre de provincia y poblacion total de sus ciudades para la tabla `ciudades`. Mostrar solamente las provincias que sumen más de un millón de habitantes.
 16. Mostrar las compras de Juan Perez ordenadas por fecha. Indicar artículo, precio, cantidad y total de la compra.
 17. Buscar el nombre y apellido de los clientes que viven en Santa Fe o Cordoba.
-18. Ejercicio 18.
-19. Ejercicio 19.
-20. Ejercicio 20.
-21. Ejercicio 21.
+18. Dar el total de población para cada región de la Argentina.
+19. ¿Cuál es la provincia más poblada en cada región?
+20. ¿Cuál es la ciudad más poblada (de la tabla ciudades) en cada región?
+21. Listar las regiones del país que no lleguen al millón de habitantes.
 22. Ejercicio 22.
 23. Ejercicio 23.
 24. Ejercicio 24.
