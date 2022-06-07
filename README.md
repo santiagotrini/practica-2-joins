@@ -80,13 +80,13 @@
 16. Mostrar las compras de Juan Perez ordenadas por fecha. Indicar artículo, precio, cantidad y total de la compra.
 17. Buscar el nombre y apellido de los clientes que viven en Santa Fe o Cordoba.
 18. Dar el total de población para cada región de la Argentina.
-19. ¿Cuál es la provincia más poblada en cada región?
-20. ¿Cuál es la ciudad más poblada (de la tabla ciudades) en cada región?
-21. Listar las regiones del país que no lleguen al millón de habitantes.
-22. Ejercicio 22.
-23. Ejercicio 23.
-24. Ejercicio 24.
-25. Ejercicio 25.
+19. Listar las regiones del país que no lleguen a tres millones de habitantes.
+20. Mostrar las compras de menos de mil pesos en un listado como el del ejercicio 10.
+21. Sumar la población de todas las ciudades de la tabla `ciudades` por region del país.
+22. Dar la lista de todas las compras como en el ejercicio 10, ordenando por apellido y nombre de manera ascendente y por total de la compra de manera descendente.
+23. Contar la cantidad de ciudades en la tabla `ciudades` por provincia.
+24. Buscar las regiones del país con cuatro o más provincias.
+25. Buscar las ciudades de la provincia de Santa Fe con más de quinientos mil habitantes.
 
 ## Conceptos
 
